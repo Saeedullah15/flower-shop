@@ -44,7 +44,7 @@
     color: rgba(39, 39, 39, 0.60);
     margin-bottom: 20px;
     font-family: Lato;
-    line-height: 25px;
+    line-height: 20px;
 }
 
 .button1 {
@@ -140,4 +140,29 @@
 
 .hot-deal-text button {
     margin: 0 auto;
+}
+
+/* instagram section styles */
+
+.instagram {
+    margin: 100px 0px;
+}
+
+.instagram-text {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.instagram-text h2 {
+    margin: 10px;
+}
+
+.instagram-img {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.instagram-img img {
+    width: 300px;
 }
