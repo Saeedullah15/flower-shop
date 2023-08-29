@@ -166,3 +166,39 @@
 .instagram-img img {
     width: 300px;
 }
+
+/* latest deal section */
+
+.latest-deal-text {
+    text-align: center;
+}
+
+.latest-deal-text h2 {
+    margin-bottom: 10px;
+}
+
+.latest-deal-text input {
+    border-radius: 5px;
+    width: 50%;
+    border: none;
+    padding: 15px;
+}
+
+.latest-deal {
+    background-image: url("images/Rectangle\ 9.png");
+    padding: 120px 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0px 120px 100px;
+    /* margin-left: 110px;
+    margin-right: 110px; */
+}
+
+.button-subscribe {
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    padding: 20px 43px;
+    color: white;
+    margin-left: 10px;
+}
