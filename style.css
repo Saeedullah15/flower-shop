@@ -53,3 +53,56 @@
     padding: 20px 43px;
     color: white;
 }
+
+/* featured flower section styles */
+
+.f-f-section {
+    margin: 100px 0px;
+}
+
+.f-f-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.single-featured-flower img {
+    width: 250px;
+    height: 300px;
+}
+
+.single-featured-flower h5 {
+    margin-top: 15px;
+    text-align: center;
+    text-decoration: underline;
+    color: #272727;
+}
+
+.f-f-text {
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+}
+
+.f-f-text h2 {
+    margin-bottom: 10px;
+}
+
+.f-f-image-1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 100px 50px 50px;
+}
+
+.f-f-image-2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 100px 50px 50px;
+}
+
+.f-f-image-3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 100px 50px 50px;
+}
