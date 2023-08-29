@@ -147,6 +147,29 @@ nav>ul li a:hover {
     padding: 100px 50px 50px;
 }
 
+/* services section styles */
+
+.services {
+    margin: 100px 215px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 80px 0px;
+}
+
+.services img {
+    display: block;
+    margin: 0 auto;
+}
+
+.services p {
+    color: rgba(39, 39, 39, 0.80);
+    margin-top: 20px;
+}
+
 /* hot deal section styles */
 
 .highlighter-1 {
@@ -219,12 +242,10 @@ nav>ul li a:hover {
 
 .latest-deal {
     background-image: url("images/Rectangle\ 9.png");
-    padding: 120px 250px;
+    padding: 120px 0px;
     background-repeat: no-repeat;
     background-position: center;
-    margin: 0px 120px 100px;
-    /* margin-left: 110px;
-    margin-right: 110px; */
+    margin: 0px 130px 100px;
 }
 
 .button-subscribe {
