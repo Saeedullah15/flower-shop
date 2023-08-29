@@ -86,6 +86,7 @@ nav>ul li a:hover {
     border: none;
     padding: 20px 43px;
     color: white;
+    font-size: medium;
     display: block;
 }
 
@@ -172,10 +173,6 @@ nav>ul li a:hover {
 
 /* hot deal section styles */
 
-.highlighter-1 {
-    color: #E55473;
-}
-
 .hot-deal {
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
@@ -184,6 +181,10 @@ nav>ul li a:hover {
     align-items: center;
     gap: 80px;
     padding: 80px 0px;
+}
+
+.highlighter-1 {
+    color: #E55473;
 }
 
 .hot-deal-text {
@@ -254,6 +255,7 @@ nav>ul li a:hover {
     border: none;
     padding: 20px 43px;
     color: white;
+    font-size: medium;
     margin-left: 10px;
 }
 
