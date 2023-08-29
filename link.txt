@@ -1,2 +1,2 @@
-Repo-link: 
-Site-link: 
+Repo-link: https://github.com/Saeedullah15/flower-shop
+Site-link: https://saeedullah15.github.io/flower-shop/
