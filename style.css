@@ -12,7 +12,40 @@
     font-family: 'Work Sans', sans-serif;
 }
 
-/* header section styles */
+/* navbar section styles */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar img {
+    width: 100px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav>ul li {
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+nav>ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+nav>ul li a:hover {
+    color: #E55473;
+}
+
+/* banner section styles */
 
 .header {
     background: rgba(229, 84, 115, 0.10);
