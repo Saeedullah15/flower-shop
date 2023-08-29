@@ -202,3 +202,23 @@
     color: white;
     margin-left: 10px;
 }
+
+/* footer section styles */
+
+.footer {
+    text-align: center;
+    background: #111010;
+    color: white;
+    padding: 120px;
+}
+
+.footer h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.copyright {
+    color: rgba(255, 255, 255, 0.40);
+    margin-top: 30px;
+    display: block;
+}
